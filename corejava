@@ -1,0 +1,8 @@
+#include <studio.h>
+#include <paremeters>
+{
+        int a , b ;
+        Call c = c.ref(b);
+        System.out.println("Reference c " , b);
+}
+
